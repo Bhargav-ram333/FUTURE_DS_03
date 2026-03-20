@@ -1,5 +1,3 @@
-%pip install plotly.graph_objects
-%pip install plotly.express
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
