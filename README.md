@@ -1,5 +1,7 @@
 # Funnel Analysis Dashboard (Bank Marketing)
 
+Dashboard for analysation - https://futureds03-fgha97prhfnqvbe42wtzhu.streamlit.app/
+
 This project is an interactive Streamlit dashboard for analyzing marketing funnel performance using the Bank Marketing dataset. It focuses on understanding user progression through key stages and identifying opportunities to improve conversion rates.
 
 ---
@@ -51,30 +53,7 @@ Dataset highlights:
 
 ---
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Running the Application
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## Project Structure
 
